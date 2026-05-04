@@ -44,4 +44,4 @@ seperti Hack The Box, TryHackMe, dan kompetisi CTF.
 
 ## 📫 Kontak Saya
 - LinkedIn: [www.linkedin.com/in/diky-ari-s]
-- Email: [dikyarisetiyawan@google.com]
+- Email: [dikyarisetiyawan@gmail.com]

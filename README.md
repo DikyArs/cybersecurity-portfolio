@@ -39,6 +39,8 @@ seperti Hack The Box, TryHackMe, dan kompetisi CTF.
 
 ## 📌 Status Saat Ini
 🟢 **Day 1** – Membuat struktur repo  
+🟢 **Day 2** – Setup lab
+🟢 **Day 3** – Eksploitasi vsftpd backdoor  
 
 ---
 

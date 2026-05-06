@@ -26,7 +26,6 @@ seperti Hack The Box, TryHackMe, dan kompetisi CTF.
 | `Projects/` | Proyek mandiri: analisis malware, simulasi AD, dll. |
 | `Scripts-Tools/` | Kode Python/Bash yang dibuat sendiri. |
 
-> *Folder akan terus diisi seiring progres belajar.*
 
 ---
 
@@ -41,6 +40,8 @@ seperti Hack The Box, TryHackMe, dan kompetisi CTF.
 🟢 **Day 1** – Membuat struktur repo  
 🟢 **Day 2** – Setup lab
 🟢 **Day 3** – Eksploitasi vsftpd backdoor  
+🟢 **Day 4** – Write-up Rootme (TryHackMe)
+
 
 ---
 

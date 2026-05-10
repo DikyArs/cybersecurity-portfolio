@@ -34,14 +34,6 @@ seperti Hack The Box, TryHackMe, dan kompetisi CTF.
 - **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Python.
 - **Konsep:** Enumerasi, eksploitasi, eskalasi hak akses, monitoring SIEM.
 
----
-
-## 📌 Status Saat Ini
-🟢 **Day 1** – Membuat struktur repo  
-🟢 **Day 2** – Setup lab
-🟢 **Day 3** – Eksploitasi vsftpd backdoor   
-🟢 **Day 4** – Write-up Rootme (TryHackMe)
-
 
 ---
 

@@ -22,8 +22,7 @@
 ## Diagram Jaringan 
 
 
-![[Diagram Jaringan.png]]
-
+![Diagram-Jaringan.png](../images/Diagram-Jaringan.png)
 
 ## Langkah Instalasi
 
@@ -70,7 +69,7 @@ VBoxManage startvm "Metaslpoitable2"
 
 login menggunakan `msfadmin`
 
-![[Metasploit2VM.png]]
+![Metasploit2VM.png](../images/Metasploit2VM.png)
 
 ### 5. Konfigurasi IP Statis pada Metasploitable 2
 
@@ -129,7 +128,7 @@ ping 192.168.56.101
 
 jika muncul koneksi latensi maka berhasil.
 
-![[ping-test.png|594]]
+![ping-test.png|594](../images/ping-test.png)
 
 
 

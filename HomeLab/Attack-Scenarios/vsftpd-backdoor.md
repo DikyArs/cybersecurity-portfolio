@@ -15,7 +15,7 @@ Menggunakan Nmap untuk pemindaian port dan versi:
 nmap -sV -p- 192.168.56.101
 ```
 
-![[nmap-scan.png]]
+![nmap-scan.png](../../images/nmap-scan.png)
 
 Hasil pada port 21:
 
@@ -42,7 +42,7 @@ nc 192.168.56.101 6200
 whoami
 ```
 
-![[vsftpd-shell.png]]
+![vsftpd-shell.png](../../images/vsftpd-shell.png)
 
 ## 3. Dampak
 

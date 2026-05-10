@@ -13,7 +13,7 @@ python3 port_scanner.py
 
 Kemudian masukkan alamat IP target.
 
-![[port-scanner-output.png]]
+![port-scanner-output.png](../../images/port-scanner-output.png)
 
 ---
 ## Fitur
@@ -31,4 +31,5 @@ Kemudian masukkan alamat IP target.
 ## Batasan
 
 - Hanya TCP, lambat untuk rentang besar.
+
 

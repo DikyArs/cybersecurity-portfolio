@@ -18,7 +18,7 @@ Selamat datang di portofolio saya! Repositori ini adalah kumpulan dokumentasi pe
 - [📊 Analisis Malware](#-analisis-malware)
 - [📓 Jurnal Pembelajaran](#-jurnal-pembelajaran)
 - [🛠️ Tools & Teknologi](#️-tools--teknologi)
--  [📫 Kontak](#kontak)
+-  [📫 Kontak](#-kontak)
 
 ---
 
